@@ -1,4 +1,4 @@
-# Assignment 6 - Analyzing PCAP Files
+# Assignment 7 - Analyzing PCAP Files
 
 ## Overview
 Two pcap files have been provided.  Open them in Wireshark and answer the following questions about each.  Provide your answers in a new file named `answers.txt` and submit it via git as you would any other assignment.  Your answers should be numbered according to the corresponding question number.
